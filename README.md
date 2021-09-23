@@ -1,3 +1,3 @@
 # cse-workshop
 
-This is a dmo text for *CSE-Worksshop*.
+This is a demo text for *CSE-Workshop*.
